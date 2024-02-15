@@ -5,7 +5,7 @@ import uuid
 from black import format_str, FileMode
 from io import StringIO
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title="Dataframe filter builder Template")
 
 
 # GLOBAL VARIABLES
