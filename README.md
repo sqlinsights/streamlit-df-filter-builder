@@ -6,4 +6,4 @@
 - Vega Datasets 0.9 or Higher
 
 ## Summary
-Allows the creation of filtering controlles up to 2 expressions per filter group with unlimited number of filter groups.  Allows and/or logi between expression and filter groups.Choose between sample data or paste your own CSV data. **Streamlit in Snowflake Compatible**
+Allows the creation of filtering controllers up to 2 expressions per filter group with unlimited number of filter groups.  Allows and/or logi between expression and filter groups.Choose between sample data or paste your own CSV data. **Streamlit in Snowflake Compatible**
